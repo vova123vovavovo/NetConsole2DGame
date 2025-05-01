@@ -1,0 +1,14 @@
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\bin\Debug\net9.0\ConsoleBuild.exe
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\bin\Debug\net9.0\ConsoleBuild.deps.json
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\bin\Debug\net9.0\ConsoleBuild.runtimeconfig.json
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\bin\Debug\net9.0\ConsoleBuild.dll
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\bin\Debug\net9.0\ConsoleBuild.pdb
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\obj\Debug\net9.0\ConsoleBuild.GeneratedMSBuildEditorConfig.editorconfig
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\obj\Debug\net9.0\ConsoleBuild.AssemblyInfoInputs.cache
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\obj\Debug\net9.0\ConsoleBuild.AssemblyInfo.cs
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\obj\Debug\net9.0\ConsoleBuild.csproj.CoreCompileInputs.cache
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\obj\Debug\net9.0\ConsoleBuild.dll
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\obj\Debug\net9.0\refint\ConsoleBuild.dll
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\obj\Debug\net9.0\ConsoleBuild.pdb
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\obj\Debug\net9.0\ConsoleBuild.genruntimeconfig.cache
+B:\Programms\VisualStudio\ConsoleBuild\ConsoleBuild\obj\Debug\net9.0\ref\ConsoleBuild.dll
